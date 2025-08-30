@@ -96,6 +96,7 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 <p>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="42" height="42" style="margin:6px;"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="42" height="42" style="margin:6px;"/>
+   <img src="https://www.vectorlogo.zone/logos/google_lookerstudio/google_lookerstudio-icon.svg" alt="Looker Studio" width="42" height="42" style="margin:6px;"/>
 </p>
 
 
