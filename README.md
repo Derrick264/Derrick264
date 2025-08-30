@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=2A5298&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;Building+ETL+Pipelines+%26+Analytics;Deep+Learning+%7C+NLP+%7C+Predictive+Modeling;Cloud+%26+Big+Data+%7C+AWS+%7C+GCP+%7C+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=2A5298&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;Building+ETL+Pipelines+%26+Analytics;Deep+Learning+%7C+NLP+%7C+Predictive+Modeling;Cloud+%26+Big+Data+%7C+AWS+%7C+GCP" alt="Typing SVG" />
   </a>
 </p>
  
