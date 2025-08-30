@@ -1,5 +1,36 @@
-#  About Me:
-I’m Derrick Tharun, a Data-Driven Professional with a strong focus on Data Science, Machine Learning, and Data Analytics.<br><br>I’ve worked on several end-to-end projects ranging from data preprocessing and exploratory analysis to building, testing, and deploying ML models for real-world use cases. My projects span areas like predictive modeling, NLP, deep learning, and scalable data pipelines.<br><br>Currently interning as a Data Analyst, where I design ETL workflows, dashboards, and predictive models to generate actionable insights and support business decisions.<br><br>**Core Competencies**<br><br>**Data Analytics & Business Insights** – Exploratory Data Analysis (EDA), KPI measurement, trend forecasting, performance optimization<br><br>**Machine Learning & AI** – Supervised/unsupervised learning, Deep Learning (CNN, LSTM, Transformers), NLP solutions, model evaluation & deployment<br><br>**Data Engineering & Architecture** – ETL/ELT pipeline development, SQL optimization, large-scale data processing, data integration & automation<br><br>**Visualization & BI Tools** – Interactive dashboards (Tableau, Power BI, Looker Studio), data storytelling, executive reporting<br><br>**Cloud & Big Data Platforms** – AWS (S3, EC2, SageMaker), GCP, Azure; distributed data processing with Spark & scalable ML solutions<br><br>**Outlook**<br><br>Passionate about turning data into impact, optimizing processes, and continuously learning new technologies.
+# 👋 Hi, I’m **Derrick Tharun**  
+💡 A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
+
+---
+
+## 🔎 About Me  
+- 📊 Worked on **end-to-end projects** ranging from **data preprocessing & EDA** to **building, testing, and deploying ML models** in real-world use cases.  
+- 🤖 Projects span **predictive modeling, NLP, deep learning, and scalable data pipelines**.  
+- 💼 Currently **interning as a Data Analyst**, where I design **ETL workflows, dashboards, and predictive models** to generate actionable insights & support business decisions.  
+
+---
+
+## 🛠️ Core Competencies  
+
+### 📈 Data Analytics & Business Insights  
+- Exploratory Data Analysis (EDA) | KPI measurement | Trend forecasting | Performance optimization  
+
+### 🤖 Machine Learning & AI  
+- Supervised & Unsupervised Learning | Deep Learning (**CNN, LSTM, Transformers**) | NLP solutions | Model evaluation & deployment  
+
+### 🗄️ Data Engineering & Architecture  
+- ETL/ELT pipeline development | SQL optimization | Large-scale data processing | Data integration & automation  
+
+### 📊 Visualization & BI Tools  
+- Interactive Dashboards (**Tableau, Power BI, Looker Studio**) | Data storytelling | Executive reporting  
+
+### ☁️ Cloud & Big Data Platforms  
+- **AWS (S3, EC2, SageMaker), GCP, Azure** | Distributed data processing with **Spark** | Scalable ML solutions  
+
+---
+
+## 🚀 Outlook  
+Passionate about **turning data into impact**, **optimizing processes**, and **continuously learning** new technologies.  
 
 
 ##  Socials:
