@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=220&section=header&text=Derrick%20Tharun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:6A5ACD&height=220&section=header&text=Derrick%20Tharun&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=2A5298&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;Building+ETL+Pipelines+%26+Analytics;Deep+Learning+%7C+NLP+%7C+Predictive+Modeling;Cloud+%26+Big+Data+%7C+AWS+%7C+GCP+%7C+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;ETL+Pipelines+%7C+Analytics;Deep+Learning+%7C+NLP+%7C+Predictive+Modeling;Cloud+%26+Big+Data+%7C+AWS+%7C+GCP+%7C+Azure" alt="Typing SVG" />
   </a>
 </p>
 
