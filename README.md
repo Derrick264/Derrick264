@@ -11,7 +11,7 @@
  
 ---
 
-##  About Me  
+##  <img src="assets/icons8-about-me-50-2.png" width="28" height="28" style="position: relative; top: 4px; margin-right:8px;" /> About Me
  - A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
 -  Worked on **End-to-End projects** ranging from **data preprocessing & EDA** to **building, testing, and deploying ML models** in real-world use cases.  
 -  Projects span **Analytics, Predictive Modeling, NLP, Deep Learning, and Scalable Data Pipelines**.  
@@ -89,6 +89,7 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="42" height="42" style="margin:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" style="margin:6px;"/>
+  
 </p>
 
 ---
