@@ -82,6 +82,8 @@ I’m Derrick Tharun, a Data-Driven Professional with a strong focus on Data Sci
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Kibana" width="42" height="42"/>
 </p>
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Derrick264&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Derrick264&theme=tokyonight&hide_border=false)<br/>
