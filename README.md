@@ -19,32 +19,34 @@
 
 ---
 
-## 🛠️ Core Competencies  
+## <img src="assets/icons8-skills-50-4.png" width="28" height="28" style="position: relative; top: 4px; margin-right:8px;" /> Core Competencies
 
-### 📈 Data Analytics & Business Insights  
+ ### <img src="assets/icons8-data-analytics-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Data Analytics & Business Insights   
 - Exploratory Data Analysis (EDA) | KPI measurement | Trend forecasting | Performance optimization | Data Visualization | Reporting | Storytelling
 
-### 🤖 Machine Learning & AI  
+ ### <img src="assets/icons8-machine-learning-50-2.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Machine Learning & AI  
 - Supervised & Unsupervised Learning | Deep Learning (**CNN, LSTM, Transformers**) | NLP & Generative AI (LLMs) | Model evaluation & deployment  
 
-### 🗄️ Data Engineering & Architecture  
+ ### <img src="assets/icons8-data-engineering-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Data Engineering & Architecture  
+
 - ETL/ELT pipeline development | SQL optimization | Large-scale data processing | Data integration & automation  
 
-### 📊 Visualization & BI Tools  
+ ### <img src="assets/icons8-chart-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Visualization & BI Tools 
 - Interactive Dashboards (**Tableau, Power BI, Looker Studio**) | Data storytelling | Executive reporting  
 
-### ☁️ Cloud & Big Data Platforms  
+ ### <img src="assets/icons8-cloud-50-2.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Cloud & Big Data Platforms  
+ 
 - **AWS, GCP** | Distributed data processing with **Spark** | Scalable ML solutions  
 
 ---
-## 🚀 Outlook  
+## <img src="assets/icons8-overview-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Outlook 
 Passionate about **turning data into impact**, **optimizing processes**, and **continuously learning** new technologies.  
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/derru_743) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick09/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Derr900) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Derrick07810479) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derricktharun09@gmail.com) 
 
-#  Tech Stack:
-## 🚀 Languages & Programming
+#  <img src="assets/icons8-platform-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" />  Tech Stack
+## <img src="assets/icons8-programming-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" />  Languages & Programming
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" style="margin:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" style="margin:6px;"/>
@@ -53,7 +55,7 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 
 ---
 
-## 🤖 Machine Learning & AI
+## <img src="assets/icons8-machine-learning-50-2.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Machine Learning & AI 
 <p>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="42" height="42" style="margin:6px;"/>
@@ -67,7 +69,7 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 
 ---
 
-## 🗄️ Databases & Big Data
+## <img src="assets/icons8-database-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" />  Databases & Big Data
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" style="margin:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" style="margin:6px;"/>
@@ -80,7 +82,8 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 
 ---
 
-## ☁️ Cloud & DevOps
+## <img src="assets/icons8-cloud-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Cloud & DevOps
+
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="42" height="42" style="margin:6px;"/>
@@ -90,15 +93,14 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 
 ---
 
-## 📊 Data Visualization & BI
-<p>
+## <img src="assets/icons8-chart-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> Data Visualization & BI
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="42" height="42" style="margin:6px;"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="42" height="42" style="margin:6px;"/>
    <img src="https://www.vectorlogo.zone/logos/google_lookerstudio/google_lookerstudio-icon.svg" alt="Looker Studio" width="42" height="42" style="margin:6px;"/>
 </p>
 
 
-# 📊 GitHub Stats:
+## <img src="assets/icons8-github-50.png" width="22" height="22" style="vertical-align:middle; margin-right:6px;" /> GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Derrick264&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Derrick264&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick264&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
