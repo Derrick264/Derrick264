@@ -8,26 +8,24 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=2A5298&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;Building+ETL+Pipelines+%26+Analytics;Deep+Learning+%7C+NLP+%7C+Predictive+Modeling;Cloud+%26+Big+Data+%7C+AWS+%7C+GCP+%7C+Azure" alt="Typing SVG" />
   </a>
 </p>
-
-#  Hi, I’m **Derrick Tharun**  
- A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
-
+ 
 ---
 
 ##  About Me  
-- 📊 Worked on **end-to-end projects** ranging from **data preprocessing & EDA** to **building, testing, and deploying ML models** in real-world use cases.  
-- 🤖 Projects span **predictive modeling, NLP, deep learning, and scalable data pipelines**.  
-- 💼 Currently **interning as a Data Analyst**, where I design **ETL workflows, dashboards, and predictive models** to generate actionable insights & support business decisions.  
+ - A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
+-  Worked on **End-to-End projects** ranging from **data preprocessing & EDA** to **building, testing, and deploying ML models** in real-world use cases.  
+-  Projects span **Analytics, Predictive Modeling, NLP, Deep Learning, and Scalable Data Pipelines**.  
+-  Currently **interning as a Data Analyst**, where I design **ETL workflows, Dashboards, and Predictive Models** to generate actionable insights & support business decisions.  
 
 ---
 
 ## 🛠️ Core Competencies  
 
 ### 📈 Data Analytics & Business Insights  
-- Exploratory Data Analysis (EDA) | KPI measurement | Trend forecasting | Performance optimization  
+- Exploratory Data Analysis (EDA) | KPI measurement | Trend forecasting | Performance optimization | Data Visualization | Reporting | Storytelling
 
 ### 🤖 Machine Learning & AI  
-- Supervised & Unsupervised Learning | Deep Learning (**CNN, LSTM, Transformers**) | NLP solutions | Model evaluation & deployment  
+- Supervised & Unsupervised Learning | Deep Learning (**CNN, LSTM, Transformers**) | NLP & Generative AI (LLMs) | Model evaluation & deployment  
 
 ### 🗄️ Data Engineering & Architecture  
 - ETL/ELT pipeline development | SQL optimization | Large-scale data processing | Data integration & automation  
@@ -36,14 +34,14 @@
 - Interactive Dashboards (**Tableau, Power BI, Looker Studio**) | Data storytelling | Executive reporting  
 
 ### ☁️ Cloud & Big Data Platforms  
-- **AWS (S3, EC2, SageMaker), GCP, Azure** | Distributed data processing with **Spark** | Scalable ML solutions  
+- **AWS, GCP** | Distributed data processing with **Spark** | Scalable ML solutions  
 
 ---
 ## 🚀 Outlook  
 Passionate about **turning data into impact**, **optimizing processes**, and **continuously learning** new technologies.  
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/derru_743) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/derrick09/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Derr900) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Derrick07810479) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derricktharun09@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/derru_743) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick09/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Derr900) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Derrick07810479) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derricktharun09@gmail.com) 
 
 #  Tech Stack:
 ## 🚀 Languages & Programming
