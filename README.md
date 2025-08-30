@@ -9,14 +9,12 @@
   </a>
 </p>
 
-
-
-# 👋 Hi, I’m **Derrick Tharun**  
-💡 A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
+#  Hi, I’m **Derrick Tharun**  
+ A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
 
 ---
 
-## 🔎 About Me  
+##  About Me  
 - 📊 Worked on **end-to-end projects** ranging from **data preprocessing & EDA** to **building, testing, and deploying ML models** in real-world use cases.  
 - 🤖 Projects span **predictive modeling, NLP, deep learning, and scalable data pipelines**.  
 - 💼 Currently **interning as a Data Analyst**, where I design **ETL workflows, dashboards, and predictive models** to generate actionable insights & support business decisions.  
@@ -41,10 +39,8 @@
 - **AWS (S3, EC2, SageMaker), GCP, Azure** | Distributed data processing with **Spark** | Scalable ML solutions  
 
 ---
-
 ## 🚀 Outlook  
 Passionate about **turning data into impact**, **optimizing processes**, and **continuously learning** new technologies.  
-
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/derru_743) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/derrick09/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Derr900) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Derrick07810479) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derricktharun09@gmail.com) 
