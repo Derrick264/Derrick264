@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=2A5298&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;Building+ETL+Pipelines+%26+Analytics;Deep+Learning+%7C+NLP+%7C+Predictive+Modeling;Cloud+%26+Big+Data+%7C+AWS+%7C+GCP" alt="Typing SVG" />
+  <a href="https://github.com/Derrick264?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Projects-4A90E2?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=4A90E2&borderRadius=20" alt="View Projects"/>
   </a>
 </p>
- 
+
 ---
 
 ##  <img src="assets/icons8-about-me-50.png" height="30" style="position: relative; top: 4px; margin-right:8px;" /> About Me
