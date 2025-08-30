@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00CED1&height=220&section=header&text=Derrick%20Tharun%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data-Driven%20Professional%20|%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descAlignY=60&descAlign=50"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Derrick+Tharun;Data-Driven+Professional;Data+Science+%7C+Machine+Learning+%7C+Analytics;Turning+Data+into+Impact" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
 # 👋 Hi, I’m **Derrick Tharun**  
 💡 A **Data-Driven Professional** with a strong focus on **Data Science, Machine Learning, and Data Analytics**
 
