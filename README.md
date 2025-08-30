@@ -51,9 +51,6 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" style="margin:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" style="margin:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="42" height="42" style="margin:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" style="margin:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" style="margin:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="42" height="42" style="margin:6px;"/>
 </p>
 
 ---
@@ -81,7 +78,6 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="42" height="42" style="margin:6px;"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="Redis" width="42" height="42" style="margin:6px;"/>
 </p>
 
 ---
@@ -90,12 +86,8 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="42" height="42" style="margin:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="42" height="42" style="margin:6px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" style="margin:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="42" height="42" style="margin:6px;"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="42" height="42" style="margin:6px;"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42" style="margin:6px;"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="42" height="42" style="margin:6px;"/>
 </p>
 
 ---
@@ -104,8 +96,6 @@ Passionate about **turning data into impact**, **optimizing processes**, and **c
 <p>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="42" height="42" style="margin:6px;"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="42" height="42" style="margin:6px;"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="42" height="42" style="margin:6px;"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Kibana" width="42" height="42" style="margin:6px;"/>
 </p>
 
 
